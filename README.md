@@ -20,7 +20,7 @@ I thrive at the intersection of **research**, **programming languages**, and **s
 ## 🛠️ Key Projects & Tools
 - **GPUMC:** Built a **stateless model checker** for GPU concurrency, improving bug detection in heterogeneous systems.  
   [🔗 Artifact](https://figshare.com/articles/software/CAV_2025_artifact_GPUMC/28789703?file=53669177)
-- **TranSER:** Developed a **high-efficiency verification tool** for transactional programs under serializability.  
+- **TranSER:** Developed an **efficient verification tool** for transactional programs under serializability.  
   [🔗 Artifact](https://figshare.com/articles/software/Transer_artifact/26200058)
 - **DynamicDyckReachability:** Engineered an **O(n log n) dynamic graph algorithm** for scalable static analysis.  
   [🔗 Artifact](https://doi.org/10.5281/zenodo.8423764)
