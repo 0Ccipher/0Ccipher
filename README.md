@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Omkar Tuppe
 
 ## 🚀 About Me
-I'm a Ph.D. candidate in Computer Science at **IIT Bombay**, passionate about building **high-performance verification tools**, **scalable systems**, and **advanced concurrency solutions**.
+I'm a Ph.D. candidate in Computer Science and Engineering at **IIT Bombay**, passionate about building **high-performance verification tools**, **scalable systems**, and **advanced concurrency solutions**.
 
 🔍 I specialize in:
 - **Formal Verification** and **Static/Dynamic Program Analysis**
