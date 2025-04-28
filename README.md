@@ -29,9 +29,6 @@ I thrive at the intersection of **research**, **programming languages**, and **s
 
 Each tool is designed for **scalability**, **efficiency**, and **practical impact**.
 
-## 📈 GitHub Stats
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Ccipher&show_icons=true&theme=merko)
-
 ## 🌎 Let's Connect
 - [LinkedIn](http://www.linkedin.com/in/omkar-tuppe-845a29106)
 - [GitHub](https://github.com/0Ccipher)
